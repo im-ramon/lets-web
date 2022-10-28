@@ -807,6 +807,10 @@ button.owl-next:hover {
   background-color: rgba(19, 16, 25, 0.9);
 }
 
+.app-name {
+  font-size: 16px !important;
+}
+
 /* Responsiveness
 -------------------------------------------------------------- */
 @media (min-width: 992px) {
