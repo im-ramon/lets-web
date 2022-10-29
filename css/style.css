@@ -797,11 +797,11 @@ button.owl-next:hover {
 #dev-area a {
   color: #ffffff;
   text-decoration: none;
-  font-size: 48px;
+  font-size: 2em;
   margin-left: 0.3em;
 }
 #dev-area #logo-ramon {
-  width: 48px;
+  width: 1.3em;
 }
 
 /* Footer
