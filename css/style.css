@@ -265,10 +265,9 @@ a {
 }
 
 #google-play-badge {
-  opacity: 10%;
+  opacity: 90%;
   width: 40%;
   transition: 0.3s transform ease-in-out;
-  filter: grayscale(100%);
 }
 #google-play-badge:hover {
   transition: 0.3s transform ease-in-out;
@@ -323,7 +322,7 @@ a {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-3.5em);
+    transform: translateY(-6em);
   }
 }
 
@@ -332,7 +331,7 @@ a {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-3.5em);
+    transform: translateY(-6em);
   }
 }
 .hero {
