@@ -265,6 +265,7 @@ a {
 }
 
 #google-play-badge {
+  opacity: 10%;
   width: 40%;
   transition: 0.3s transform ease-in-out;
   filter: grayscale(100%);
