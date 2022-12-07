@@ -271,7 +271,7 @@ a {
 }
 #google-play-badge:hover {
   transition: 0.3s transform ease-in-out;
-  cursor: default;
+  cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;

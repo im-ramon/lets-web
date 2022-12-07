@@ -289,7 +289,7 @@ a {
 
     &:hover {
         transition: 0.3s transform ease-in-out;
-        cursor: default;
+        cursor: pointer;
         user-select: none;
         // transform: scale(1.1);
     }
